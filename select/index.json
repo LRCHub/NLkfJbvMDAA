@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "BBoom BBoom(뿜뿜)",
+  "base_artist": "MOMOLAND(모모랜드)",
+  "createdAt": "2026-01-13T23:42:46.364558Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "BBoom BBoom(뿜뿜)",
+      "artist": "MOMOLAND(모모랜드)",
+      "has_synced": true,
+      "path": "select/01_BBoom_BBoom(뿜뿜)_MOMOLAND(모모랜드).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "BBoom BBoom(뿜뿜)",
+      "artist": "MOMOLAND",
+      "has_synced": true,
+      "path": "select/02_BBoom_BBoom(뿜뿜)_MOMOLAND.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "BBoom BBoom(뿜뿜)",
+      "artist": "MOMOLAND(모모랜드)",
+      "has_synced": true,
+      "path": "select/03_BBoom_BBoom(뿜뿜)_MOMOLAND(모모랜드).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "BBoom BBoom(뿜뿜) inst",
+      "artist": "MOMOLAND",
+      "has_synced": true,
+      "path": "select/04_BBoom_BBoom(뿜뿜)_inst_MOMOLAND.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "BBoom BBoom (뿜뿜)",
+      "artist": "MOMOLAND",
+      "has_synced": true,
+      "path": "select/05_BBoom_BBoom_(뿜뿜)_MOMOLAND.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Bboom Bboom",
+      "artist": "MOMOLAND",
+      "has_synced": false,
+      "path": "select/pl_01_Bboom_Bboom_MOMOLAND.txt"
+    }
+  ]
+}
